@@ -1,0 +1,13 @@
+S A B C D
+a b
+S AC
+S bA
+S B
+S aA
+A -
+A aS
+A ABab
+B a
+B bS
+C abC
+D AB
